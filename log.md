@@ -1,11 +1,7 @@
 # 100 Days Of Code - Log
 
-### Day 0: April 7, 2021
+### Day 4: April 22, 2021
 <!---##### (delete me or comment me out)--->
 
-**Today's Progress**: 
-
-**Thoughts:** 
-
-**Link to work:** [Calculator App](http://www.example.com)
+**Today's Progress**: Java: trying to reverse words in a string
 
