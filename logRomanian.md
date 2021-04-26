@@ -7,3 +7,16 @@
 ### Day 15: April 23, 2021
 
 **Today's Progress**: Finished plurals today :)
+
+### Day 16: April 24, 2021
+
+**Today's Progress**: Finished adjectives today :)
+
+### Day 17: April 25, 2021
+
+**Today's Progress**: Finished lessons Definite article - Nominative-Accusative, Singular today :)
+
+### Day 18: April 26, 2021
+
+**Today's Progress**:
+Started with: Definite article - Nominative-Accusative, Plural
