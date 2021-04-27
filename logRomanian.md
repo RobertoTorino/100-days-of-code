@@ -20,3 +20,7 @@
 
 **Today's Progress**:
 Started with: Definite article - Nominative-Accusative, Plural
+
+### Day 19: April 27, 2021
+
+**Today's Progress**: finished lesson: Definite article - Nominative-Accusative, Plural and started with infinitive :)

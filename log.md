@@ -12,12 +12,16 @@
 
 **Today's Progress**: Java: practicing String methods
 
-### Day 7: April 24, 2021
+### Day 7: April 25, 2021
 
 **Today's Progress**: Java: finished String methods reverse words
 
-### Day 8: April 24, 2021
+### Day 8: April 26, 2021
 
 **Today's Progress**: practicing with this tutorial  
 https://www.youtube.com/watch?v=xPi-z3nOcn8  
 creating an Android app with java
+
+### Day 9: April 27, 2021
+
+**Today's Progress**: continuing with this Android Java Weather App, it's running but not yet ready :)
