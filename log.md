@@ -25,3 +25,12 @@ creating an Android app with java
 ### Day 9: April 27, 2021
 
 **Today's Progress**: continuing with this Android Java Weather App, it's running but not yet ready :)
+
+### Day 10: April 28, 2021
+
+**Today's Progress**: Android Weather App, the weather in Miami, not perfect but a nice exercise :)
+
+### Day 11: April 29, 2021
+
+**Today's Progress**: Android Weather App not much time today, only did some refactoring :(
+

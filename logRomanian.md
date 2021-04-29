@@ -24,3 +24,12 @@ Started with: Definite article - Nominative-Accusative, Plural
 ### Day 19: April 27, 2021
 
 **Today's Progress**: finished lesson: Definite article - Nominative-Accusative, Plural and started with infinitive :)
+
+### Day 20: April 28, 2021
+
+**Today's Progress**: practice checkpoint 1 :)
+
+### Day 21: April 28, 2021
+
+**Today's Progress**: Buna seara, Day 21 of #100DaysOfRomanian started with possessive :)
+
