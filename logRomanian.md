@@ -31,8 +31,8 @@ Started with: Definite article - Nominative-Accusative, Plural
 
 ### Day 21: April 28, 2021
 
-**Today's Progress**: Buna seara, Day 21 of #100DaysOfRomanian started with possessive :)
+**Today's Progress**: Bună seara, Day 21 of #100DaysOfRomanian started with possessive :)
 
 ### Day 22: May 2, 2021
 
-**Today's Progress**: Buna, Day 22 of #100DaysOfRomanian finished possessive :)
+**Today's Progress**: Bună, Day 22 of #100DaysOfRomanian finished possessive :)
