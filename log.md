@@ -28,9 +28,9 @@ creating an Android app with java
 
 ### Day 10: April 28, 2021
 
-**Today's Progress**: Android Weather App, the weather in Miami, not perfect but a nice exercise :)
+**Today's Progress**: #100DaysOfCode Android Weather App, the weather in Miami, not perfect but a nice exercise :)
 
 ### Day 11: April 29, 2021
 
-**Today's Progress**: Android Weather App not much time today, only did some refactoring :(
+**Today's Progress**: #100DaysOfCode Android Weather App not much time today, only did some refactoring :(
 
