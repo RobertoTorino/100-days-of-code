@@ -34,3 +34,8 @@ creating an Android app with java
 
 **Today's Progress**: #100DaysOfCode Android Weather App not much time today, only did some refactoring :(
 
+### Day 12: May 3, 2021
+
+**Today's Progress**: Day 012/100 #100DaysOfCode Back to the basics, found out I had to learn some basic Java stuff first to really understand it all :) 
+Started here 
+https://edabit.com/challenge/ to take on some challenges and also took some time to dive into Junit tests
